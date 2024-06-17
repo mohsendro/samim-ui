@@ -32,7 +32,7 @@
       <div class="row">
         <div class="col-8 col-xl-1 column order-2 order-xl-1">
           <a href="/">
-            <img src="assets/img/global/footer-logo.png" alt="صمیم" width="100" height="auto">
+            <img src="assets/img/global/logo-blue.png" alt="صمیم" width="164" height="auto">
           </a>
         </div>
 

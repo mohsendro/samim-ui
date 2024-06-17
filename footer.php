@@ -1,5 +1,5 @@
   <!-- Footer Start -->
-  <footer id="footer" class="container-fluid footer" style="background-color: #000000;">
+  <footer id="footer" class="container-fluid footer">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-4 col-xl-3 column order-2 order-xl-1">
@@ -25,7 +25,7 @@
             <li><a href="#" title="">نرم‌افزار چیدمان پخش (کنداکتور)</a></li>
           </ul>
         </div>
-        <div class="col-12 col-md-4 col-xl-3 column order-4 order-xl-3">
+        <div class="col-12 col-md-4 col-xl-2 column order-4 order-xl-3">
           <strong class="head">دسترسی سریع</strong>
           <ul class="menu">
             <li><a href="#" title="">درباره ما</a></li>
@@ -33,12 +33,12 @@
             <li><a href="#" title="">فرصت‌های شغلی</a></li>
           </ul>
           <ul class="social">
-            <li><a href="#" title="">linkdine</a></li>
-            <li><a href="#" title="">aparat</a></li>
+            <li><a href="#" target="_blank" title="">linkdine</a></li>
+            <li><a href="#" target="_blank" title="">aparat</a></li>
           </ul>
         </div>
-        <div class="col-12 col-md-12 col-xl-3 column order-1 order-xl-4">
-          <img src="assets/img/global/footer-logo.png" alt="صمیم" width="300" height="auto">
+        <div class="col-12 col-md-12 col-xl-4 column order-1 order-xl-4">
+          <img src="assets/img/global/logo-blue.png" alt="صمیم" width="164" height="auto">
           <p class="about">
             <strong>شرکت مهندسی صمیم</strong>
             به عنوان یکی از پیشگامان فناوری رسانه و تولید کننده تجهیزات پیشرفته در کلاس جهانی شناخته می‌شود. نوآوری مداوم از طریق تحقیق و توسعه، ارتقا کیفی محصولات و طراحی و تولید راهکارهای اختصاصی برای مشتریان، خط مشی این شرکت بوده و صمیم ارائه محصولات مرغوب با استانداردهای بین المللی را تضمین می‌کند.
@@ -61,7 +61,7 @@
         </div>
       </div>
       <div class="row copyright">
-        <div class="col-12">
+        <div class="col-12 column">
           <p>کلیه حقوق وب‌سایت محفوظ و متعلق به شرکت صمیم رایانه می‌باشد. (2024- 1402)</p>
         </div>
       </div>

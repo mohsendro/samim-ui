@@ -16,6 +16,83 @@
 
 
 /********** Footer **********/
+#footer {}
+
+.footer {}
+
+.footer.container-fluid {
+    background-color: var(--color-blue-gray-5);
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.footer .container {}
+
+.footer .row {}
+
+.footer .column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.footer .head {
+    display: block;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.footer ul {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer ul li {}
+
+.footer ul li a {
+    color: var(--color-blue-gray);
+}
+
+.footer ul li a:hover {
+    color: var(--color-gray);
+}
+
+.footer ul.social {}
+
+.footer ul.social li {}
+
+.footer ul.social li a {}
+
+.footer img {}
+
+.footer p {}
+
+.footer p strong {}
+
+.footer ul.contact {}
+
+.footer ul.contact li {}
+
+.footer ul.contact li span {}
+
+.footer ul.contact li a {}
+
+.footer ul.contact li a span:first-child {}
+
+.footer ul.contact li a span:last-child {}
 
 /* Responsive */
 @media (max-width: 575.98px) {}

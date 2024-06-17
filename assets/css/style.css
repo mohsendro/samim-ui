@@ -13,16 +13,105 @@
         /* Safari, Android, iOS */
         url('../font/iransans.svg#svgFontName') format('svg');
     /* Legacy iOS */
-    font-weight: 200;
+    font-weight: 400;
 }
 
 /* Kit Styles */
 :root {
-    /* --color-primary: #1D2125;
-    --color-second: #CD9300;
-    --hover-primary: #1D2125;
-    --hover-second: #CD9300;
-     */
+    --main-font: "iransans";
+    --secondary-font: "iranSansX";
+
+    --color-black: #000;
+    --color-white: #fff;
+
+    --color-secondary: #0966AF;
+    --color-secondary-light-90: #0C7FDA;
+    --color-secondary-light-30: #48A8F5;
+    --color-secondary-light-15: #CFE8FC;
+    --color-secondary-light-5: #EFF2F4;
+
+    --color-error: #D71920;
+    --color-error-light-90: #DB3037;
+    --color-error-light-30: #F3BABD;
+    --color-error-light-15: #F9DDDE;
+    --color-error-light-5: #FDF4F4;
+
+    --color-gray: #141414;
+    --color-gray-90: #2B2B2B;
+    --color-gray-80: #606061;
+    --color-gray-75: #989898;
+    --color-gray-70: #BABABA;
+    --color-gray-30: #DCDDDF;
+    --color-gray-10: #F8F8F8;
+
+    --color-blue-gray: #333F49;
+    --color-blue-gray-90: #4B515A;
+    --color-blue-gray-80: #71727B;
+    --color-blue-gray-70: #8E939B;
+    --color-blue-gray-10: #EFF2F4;
+    --color-blue-gray-5: #F7F7F8;
+
+    --color-contact-back: #D1DAE0;
+
+    --color-hardware: #324EEF;
+    --color-hardware-30: #6A7FF4;
+    --color-hardware-20: #E7EBF8;
+    --color-hardware-15: #E3ECFE;
+    --color-hardware-10: #EFF4FE;
+    --color-hardware-5: #F8FAFF;
+
+    --color-software: #4CC88C;
+    --color-software-20: #DFF1E9;
+    --color-software-15: #DFF2E8;
+    --color-software-10: #F0F5F3;
+
+    --color-intercom: #FF9843;
+    --color-intercom-20: #FFF1E5;
+    --color-intercom-10: #FFFAF6;
+
+    --title-font-size: 36px;
+    --title-font-weight: 900;
+    --title-line-height: 64px;
+
+    --subtitle-font-size: 16px;
+    --subtitle-font-weight: 400;
+    --subtitle-line-height: 30px;
+
+    --head-font-size: 17px;
+    --head-font-weight: 700;
+    --head-line-height: 20px;
+
+    --default-font-size: 16px;
+    --default-font-weight: 400;
+    --default-line-height: 27px;
+
+    --p-font-size: 16px;
+    --p-font-weight: 400;
+    --p-line-height: 27px;
+
+    --h1-font-size: 28px;
+    --h1-font-weight: 700;
+    --h1-line-height: 64px;
+
+    --h2-font-size: 26px;
+    --h2-font-weight: 700;
+    --h2-line-height: 44px;
+
+    --h3-font-size: 20px;
+    --h3-font-weight: 700;
+    --h3-line-height: 40px;
+
+    --h4-font-size: 16px;
+    --h4-font-weight: 700;
+    --h4-line-height: 40px;
+
+    --h5-font-size: 16px;
+    --h5-font-weight: 700;
+    --h5-line-height: 40px;
+
+    --h6-font-size: 16px;
+    --h6-font-weight: 700;
+    --h6-line-height: 40px;
 }
 
 /* Global Styles */
@@ -35,17 +124,93 @@
 }
 
 html {
-    font-family: "iransans";
-    font-size: 16px;
-    font-weight: 400;
-    color: #FFFFFF;
+    font-family: var(--main-font);
+    font-size: var(--default-font-size);
+    font-weight: var(--default-font-weight);
+    line-height: var(--default-line-height);
+    color: var(--color-blue-gray-90);
     overflow-x: hidden;
 }
 
 body {
-    font-family: "iransans";
-    font-size: 16px;
-    font-weight: 400;
-    color: #FFFFFF;
+    font-family: var(--main-font);
+    font-size: var(--default-font-size);
+    font-weight: var(--default-font-weight);
+    line-height: var(--default-line-height);
+    color: var(--color-blue-gray-90);
     overflow-x: hidden;
+}
+
+.title {
+    font-size: var(--title-font-size);
+    font-weight: var(--title-font-weight);
+    line-height: var(--title-line-height);
+    color: var(--color-gray-90)
+}
+
+.subtitle {
+    font-size: var(--subtitle-font-size);
+    font-weight: var(--subtitle-font-weight);
+    line-height: var(--subtitle-line-height);
+    color: var(--color-blue-gray-90)
+}
+
+.head {
+    font-size: var(--head-font-size);
+    font-weight: var(--head-font-weight);
+    line-height: var(--head-line-height);
+    color: var(--color-secondary)
+}
+
+h1 {
+    font-size: var(--h1-font-size);
+    font-weight: var(--h1-font-weight);
+    line-height: var(--h1-line-height);
+    color: var(--color-gray-90)
+}
+
+h2 {
+    font-size: var(--h2-font-size);
+    font-weight: var(--h2-font-weight);
+    line-height: var(--h2-line-height);
+    color: var(--color-gray-90)
+}
+
+h3 {
+    font-size: var(--h3-font-size);
+    font-weight: var(--h3-font-weight);
+    line-height: var(--h3-line-height);
+    color: var(--color-gray-90)
+}
+
+h4 {
+    font-size: var(--h4-font-size);
+    font-weight: var(--h4-font-weight);
+    line-height: var(--h4-line-height);
+    color: var(--color-gray-90)
+}
+
+h5 {
+    font-size: var(--h5-font-size);
+    font-weight: var(--h5-font-weight);
+    line-height: var(--h5-line-height);
+    color: var(--color-gray-90)
+}
+
+h6 {
+    font-size: var(--h6-font-size);
+    font-weight: var(--h6-font-weight);
+    line-height: var(--h6-line-height);
+    color: var(--color-gray-90);
+}
+
+p {
+    font-size: var(--p-font-size);
+    font-weight: var(--p-font-weight);
+    line-height: var(--p-line-height);
+    color: var(--color-blue-gray-90);
+}
+
+a {
+    text-decoration: none;
 }
