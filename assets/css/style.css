@@ -26,7 +26,7 @@
 
     --color-secondary: #0966AF;
     --color-secondary-light-90: #0C7FDA;
-    --color-secondary-light-30: #48A8F5;
+    --color-secondary-light-40: #48A8F5;
     --color-secondary-light-15: #CFE8FC;
     --color-secondary-light-5: #EFF2F4;
 
@@ -61,6 +61,7 @@
     --color-hardware-5: #F8FAFF;
 
     --color-software: #4CC88C;
+    --color-software-m: #09A3AC;
     --color-software-20: #DFF1E9;
     --color-software-15: #DFF2E8;
     --color-software-10: #F0F5F3;
