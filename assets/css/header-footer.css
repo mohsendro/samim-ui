@@ -43,10 +43,11 @@
 
 .header .logo {
     width: 100%;
+    text-align: center;
 }
 
 .header .logo img {
-    width: auto;
+    width: 100%;
     max-width: 100px;
 }
 
@@ -70,8 +71,10 @@
 
 .megamenu {
     width: 100%;
+    min-width: 950px;
     height: 100%;
-    min-height: 400px;
+    min-height: 450px;
+    right: -12px;
     border-radius: 5px;
 }
 
@@ -87,7 +90,7 @@
 }
 
 .megamenu .nav {
-    width: 40%;
+    width: 35%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -96,7 +99,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     background-color: var(--color-hardware-5);
-    padding: 10px 15px;
+    padding: 40px 55px;
 }
 
 .megamenu .head {
@@ -104,14 +107,14 @@
     width: 100%;
     color: var(--color-blue-gray-80);
     text-align: right;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .megamenu .nav-link {
     display: block;
     width: 100%;
     position: relative;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 700;
     line-height: 22px;
     text-align: right;
@@ -179,7 +182,7 @@
     width: 100%;
     font-size: 12px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 22px;
     text-align: right;
     color: var(--color-blue-gray-80);
 }
@@ -187,9 +190,9 @@
 .megamenu .tab-content {
     width: 60%;
     height: auto;
-    max-height: 395px;
+    max-height: 435px;
     background-color: var(--color-white);
-    padding: 10px 15px;
+    padding: 40px 55px;
 }
 
 .megamenu .tab-pane {
@@ -214,14 +217,14 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-content: flex-start;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: flex-start;
-    gap: 20px;
+    gap: 30px;
     /* overflow-y: scroll; */
 }
 
 .megamenu .tab-pane .list {
-    width: calc(50% - 20px);
+    width: calc(50% - 30px);
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -346,7 +349,7 @@
     align-content: flex-start;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 5px;
+    gap: 10px;
     list-style-type: none;
     padding: 0;
 }
@@ -354,6 +357,9 @@
 .footer ul li {}
 
 .footer ul li a {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
     color: var(--color-blue-gray);
 }
 
@@ -380,15 +386,16 @@
 
 .footer p {
     font-size: 14px;
-    font-weight: var(--default-font-weight);
+    font-weight: 400;
     line-height: 22px;
     text-align: justify;
-    color: var(--color-blue-gray-70);
+    color: var(--color-blue-gray-80);
     padding: 0;
     margin: 15px 0 0;
 }
 
 .footer p strong {
+    font-weight: 400;
     color: var(--color-secondary-light-90)
 }
 
@@ -396,8 +403,9 @@
     width: 100%;
     display: block;
     font-size: 15px;
-    font-weight: var(--default-font-weight);
+    font-weight: 400;
     line-height: 28px;
+    word-spacing: -3px;
     text-align: justify;
     border-top: 1px solid var(--color-gray-70);
     padding-top: 15px;
@@ -422,11 +430,12 @@
     justify-content: flex-start;
     align-items: flex-start;
     gap: 15px;
+    color: var(--color-blue-gray-80);
 }
 
 .footer ul.contact li span {
     font-size: 15px;
-    font-weight: var(--default-font-weight);
+    font-weight: 400;
     line-height: 28px;
 }
 
@@ -438,7 +447,7 @@
     align-items: flex-start;
     gap: 10px;
     font-size: 15px;
-    font-weight: var(--default-font-weight);
+    font-weight: 400;
     line-height: 28px;
     color: var(--color-secondary-light-90);
 }
@@ -456,7 +465,7 @@
     width: 100%;
     display: block;
     font-size: 13px;
-    font-weight: var(--default-font-weight);
+    font-weight: 400;
     line-height: 22px;
     padding-top: 10px;
 }
