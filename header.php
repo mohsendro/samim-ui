@@ -7,17 +7,20 @@
   <title>Samim | صمیم</title>
   <link rel="icon" type="image/x-icon" href="assets/favicon.png">
 
-  <!-- bootstrap Css -->
+  <!-- Bootstrap Css -->
   <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css">
   <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.rtl.min.css">
   <!-- <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"> -->
+
+  <!-- Swiperjs Css -->
+  <link rel="stylesheet" href="assets/vendor/swiperjs/css/swiper-bundle.min.css">
 
   <!-- Webslide Css -->
   <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/webslide/css/webslidemenu.css" />
   <!-- <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/webslide/demo/mobile-drawer-style-menu/mobile-menu-overlapping-from-right/css/webslidemenu.css" /> -->
   <!-- <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/webslide/css/demo.css" /> -->
 
-  <!-- font awesome -->
+  <!-- Font awesome -->
   <link rel="stylesheet" href="assets/vendor/webslide/font-awesome/css/font-awesome.min.css" />
 
   <!-- Sammim Css -->

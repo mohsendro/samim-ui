@@ -88,13 +88,16 @@
   </footer>
   <!-- Footer End -->
     
-  <!-- bootstrap Js -->
+  <!-- Bootstrap Js -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- <script src="assets/vendor/bootstrap/js/popper.min.js"></script> -->
   <!-- <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script> -->
 
   <!-- JQuery Js -->
   <script type="text/javascript" src="assets/vendor/jquery/jquery-3.7.1.min.js"></script>
+
+  <!-- Swiperjs Js -->
+  <script src="assets/vendor/swiperjs/js/swiper-bundle.min.js"></script>
   
   <!-- Webslide Js -->
   <script type="text/javascript" src="assets/vendor/webslide/js/webslidemenu.js"></script>
