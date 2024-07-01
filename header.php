@@ -302,7 +302,7 @@
               <path d="M17.7778 18.889L14.4445 15.5557" stroke="#333F49" stroke-width="2" stroke-linecap="round"/>
             </svg>
           </button> -->
-          <a href="#" class="btn btn-search">
+          <a href="#" class="btn-search">
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M8.88886 16.6666C13.1844 16.6666 16.6666 13.1844 16.6666 8.88886C16.6666 4.59331 13.1844 1.11108 8.88886 1.11108C4.59331 1.11108 1.11108 4.59331 1.11108 8.88886C1.11108 13.1844 4.59331 16.6666 8.88886 16.6666Z" stroke="#333F49" stroke-width="2"/>
               <path d="M17.7778 18.889L14.4445 15.5557" stroke="#333F49" stroke-width="2" stroke-linecap="round"/>

@@ -245,6 +245,13 @@ body {
     color: var(--color-gray-90)
 }
 
+.suptitle {
+    font-size: var(--subtitle-font-size);
+    font-weight: var(--subtitle-font-weight);
+    line-height: var(--subtitle-line-height);
+    color: var(--color-blue-gray-90)
+}
+
 .subtitle {
     font-size: var(--subtitle-font-size);
     font-weight: var(--subtitle-font-weight);

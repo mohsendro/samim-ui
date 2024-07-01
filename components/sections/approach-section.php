@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-12 column">
                     <div class="tab-content show" data-background="#F8FAFF">
-                        <h3 class="title hardware">ارتباط یکپارچه، فوری و باکیفیت صوتی مبتنی بر آی پی و زیرساخت شبکه</h3>
+                        <h3 class="title hardware">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
                             <p>
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                     <div class="tab-content" data-background="#FFF9F8">
-                        <h3 class="title intercom">ارتباط یکپارچه، فوری و باکیفیت صوتی مبتنی بر آی پی و زیرساخت شبکه</h3>
+                        <h3 class="title intercom">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
                             <p>
@@ -77,7 +77,7 @@
                         </div>
                     </div>
                     <div class="tab-content" data-background="#EEF8F9">
-                        <h3 class="title software">ارتباط یکپارچه، فوری و باکیفیت صوتی مبتنی بر آی پی و زیرساخت شبکه</h3>
+                        <h3 class="title software">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
                             <p>
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     <div class="tab-content" data-background="#E9F1FA">
-                        <h3 class="title secondary">ارتباط یکپارچه، فوری و باکیفیت صوتی مبتنی بر آی پی و زیرساخت شبکه</h3>
+                        <h3 class="title secondary">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
                             <p>
