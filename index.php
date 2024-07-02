@@ -17,8 +17,8 @@
     if( isset( $_GET['page'] ) ) {
 
         switch ( $_GET['page'] ) {
-            case 'about':
-                include __DIR__ . '/templates/about.php'; 
+            case 'archive-product':
+                include __DIR__ . '/templates/archive-product.php'; 
                 break;
             
             default:

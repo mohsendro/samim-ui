@@ -6,16 +6,15 @@ const setBackground = (color) => {
 
 }
 
-
 // Approach Component Swiper
 const approachSwiper = new Swiper(".approachSwiper", {
 
     slidesPerView: 1,
     spaceBetween: 0,
-    // autoplay: {
-    //     delay: 5000,
-    // disableOnInteraction: false,
-    // },
+    autoplay: {
+        delay: 5000,
+        // disableOnInteraction: false,
+    },
     speed: 400,
     centeredSlides: false,
     loop: true,

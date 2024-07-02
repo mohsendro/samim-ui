@@ -1,4 +1,4 @@
-<!-- Home Project Component Start -->
+<!-- Home Project Card Component Start -->
 <div class="home-project-card">
     <div class="content">
         <div class="category">پـروژه واسـط</div>
@@ -9,9 +9,9 @@
     </div>
     <img src="http://localhost/samim/ui/assets/img/components/project/_MG_6544-1%201.jpg" alt="" width="auto" height="auto">
 </div>
-<!-- Home Project Component End -->
+<!-- Home Project Card Component End -->
 
-<!-- Home Project Component Start -->
+<!-- Home Project Card Component Start -->
 <div class="home-project-card">
     <div class="content">
         <div class="category">پروژه راه اندازی  سامانه کنترل و مانیتورینگ </div>
@@ -22,4 +22,4 @@
     </div>
     <img src="http://localhost/samim/ui/assets/img/components/project/TFC-Retouch-13%201.jpg" alt="" width="auto" height="auto">
 </div>
-<!-- Home Project Component End -->
+<!-- Home Project Card Component End -->
