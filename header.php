@@ -20,6 +20,9 @@
   <!-- <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/webslide/demo/mobile-drawer-style-menu/mobile-menu-overlapping-from-right/css/webslidemenu.css" /> -->
   <!-- <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/webslide/css/demo.css" /> -->
 
+  <!-- Fancybox Css -->
+  <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/fancybox/fancybox.css" />
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="assets/vendor/webslide/font-awesome/css/font-awesome.min.css" />
 

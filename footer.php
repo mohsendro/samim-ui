@@ -102,6 +102,9 @@
   <!-- Webslide Js -->
   <script type="text/javascript" src="assets/vendor/webslide/js/webslidemenu.js"></script>
 
+  <!-- Fancybox Js -->
+  <script type="text/javascript" src="assets/vendor/fancybox/fancybox.umd.js"></script>
+
   <!-- Samim Js -->
   <script src="assets/js/script.js"></script>
 </body>

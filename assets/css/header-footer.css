@@ -299,7 +299,9 @@
 /********** Footer **********/
 #footer {}
 
-.footer {}
+.footer {
+    margin-top: 55px;
+}
 
 .footer.container-fluid {
     background-color: var(--color-blue-gray-5);

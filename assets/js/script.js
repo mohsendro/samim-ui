@@ -68,3 +68,93 @@ const approachSwiper = new Swiper(".approachSwiper", {
     },
 
 });
+
+// Related Component Swiper
+const relatedSwiper = new Swiper(".relatedSwiper", {
+
+    slidesPerView: 1,
+    spaceBetween: 0,
+    autoplay: {
+        delay: 5000,
+        // disableOnInteraction: false,
+    },
+    speed: 400,
+    centeredSlides: false,
+    loop: true,
+    lazy: true,
+    grabCursor: true,
+    // mousewheel: true,
+    keyboard: {
+        enabled: true,
+    },
+    // navigation: {
+    //     nextEl: ".swiper-button-next",
+    //     prevEl: ".swiper-button-prev",
+    // },
+    breakpoints: {
+        576: {
+            slidesPerView: 1,
+            spaceBetween: 0,
+        },
+        992: {
+            slidesPerView: 2,
+            spaceBetween: 10,
+        },
+        1200: {
+            slidesPerView: 3,
+            spaceBetween: 15,
+        },
+    },
+
+});
+
+// Product Gallery Component Swiper
+var galleryThumbs = new Swiper(".gallery-thumbs", {
+
+    centeredSlides: true,
+    centeredSlidesBounds: true,
+    slidesPerView: 3,
+    watchOverflow: true,
+    watchSlidesVisibility: true,
+    watchSlidesProgress: true,
+    direction: "horizontal",
+    breakpoints: {
+        1200: {
+            direction: "vertical"
+        },
+    },
+
+});
+  
+var galleryMain = new Swiper(".gallery-main", {
+
+    watchOverflow: true,
+    watchSlidesVisibility: true,
+    watchSlidesProgress: true,
+    preventInteractionOnTransition: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev" 
+    },
+    effect: "fade",
+    fadeEffect: {
+      crossFade: true
+    },
+    thumbs: {
+      swiper: galleryThumbs
+    }
+
+});
+  
+galleryMain.on("slideChangeTransitionStart", function () {
+    galleryThumbs.slideTo(galleryMain.activeIndex);
+});
+  
+galleryThumbs.on("transitionStart", function () {
+    galleryMain.slideTo(galleryThumbs.activeIndex);
+});
+
+Fancybox.bind('[data-fancybox="gallery"]', {
+    // Your custom options for a specific gallery
+});
+  

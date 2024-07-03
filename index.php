@@ -20,6 +20,10 @@
             case 'archive-product':
                 include __DIR__ . '/templates/archive-product.php'; 
                 break;
+
+            case 'single-product':
+                include __DIR__ . '/templates/single-product.php'; 
+                break;
             
             default:
                 include __DIR__ . '/templates/front-page.php';
