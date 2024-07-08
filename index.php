@@ -24,6 +24,14 @@
             case 'single-product':
                 include __DIR__ . '/templates/single-product.php'; 
                 break;
+
+            case 'archive-post':
+                include __DIR__ . '/templates/archive-post.php'; 
+                break;
+
+            case 'single-post':
+                include __DIR__ . '/templates/single-post.php'; 
+                break;
             
             default:
                 include __DIR__ . '/templates/front-page.php';
