@@ -32,6 +32,10 @@
             case 'single-post':
                 include __DIR__ . '/templates/single-post.php'; 
                 break;
+
+            case 'about-us':
+                include __DIR__ . '/templates/about-us.php'; 
+                break;
             
             default:
                 include __DIR__ . '/templates/front-page.php';
