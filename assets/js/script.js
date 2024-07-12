@@ -157,4 +157,8 @@ galleryThumbs.on("transitionStart", function () {
 Fancybox.bind('[data-fancybox="gallery"]', {
     // Your custom options for a specific gallery
 });
-  
+
+// Logos Lightbox
+Fancybox.bind('[data-fancybox="logos"]', {
+    // Your custom options for a specific gallery
+});

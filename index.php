@@ -36,6 +36,14 @@
             case 'about-us':
                 include __DIR__ . '/templates/about-us.php'; 
                 break;
+
+            case 'customer':
+                include __DIR__ . '/templates/customer.php'; 
+                break;
+
+            case 'awards':
+                include __DIR__ . '/templates/awards.php'; 
+                break;
             
             default:
                 include __DIR__ . '/templates/front-page.php';
