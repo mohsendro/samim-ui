@@ -1783,12 +1783,240 @@
     padding: 16px;
 }
 
+/********** Anchor Section **********/
+#anchor-section {}
 
+.anchor-section {
+    background-color: var(--color-white);
+    margin-top: -143px;
+}
 
+.anchor-section.container-fluid {}
 
+.anchor-section .container {}
 
+.anchor-section .row {}
 
+.anchor-section .column {}
 
+.anchor-section ul.anchor {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 16px;
+    list-style-type: none;
+    padding: 60px 0 0;
+    margin: 0;
+}
+
+.anchor-section ul.anchor li {
+    padding: 12px 32px 12px 32px;
+    border-bottom: 3px solid #00000000;
+}
+
+.anchor-section ul.anchor li.active {
+    border-color: var(--color-secondary-light-30);
+}
+
+.anchor-section ul.anchor li a {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20.4px;
+    text-align: center;
+    color: var(--color-gray-80);
+}
+
+.anchor-section ul.anchor li.active a {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20.4px;
+    text-align: center;
+    color: var(--color-gray);
+}
+
+/********** Awards Section **********/
+#awards-section {}
+
+.awards-section {}
+
+.awards-section.container-fluid {}
+
+.awards-section .container {}
+
+.awards-section .row {}
+
+.awards-section .title-row {
+    background-color: var(--color-blue-gray-10);
+    padding: 50px 10px;
+}
+
+.awards-section .logos-row {
+    margin-top: 20px;
+}
+
+.awards-section .desc-row {
+    margin-top: 68px;
+}
+
+.awards-section .column {}
+
+.awards-section .title {
+    width: 100%;
+    display: block;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 44px;
+    text-align: center;
+    color: var(--color-blue-gary);
+}
+
+.awards-section .logos {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+.awards-section img {
+    width: 310px;
+    height: 355px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    object-fit: none;
+    background-color: var(--color-white);
+    border: 0.5px solid var(--color-gray-30);
+    border-radius: 8px;
+    box-shadow: 0px 1px 7px 0px #0000001A;
+    cursor: zoom-in;
+    padding: 16px;
+}
+
+.awards-section ul.faq {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0;
+    margin: 0;
+}
+
+.awards-section ul.faq li {
+    width: 100%;
+    display: block;
+    position: relative;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: right;
+    color: var(--color-blue-gray-90);
+    padding: 16px 80px 16px 32px;
+}
+
+.awards-section ul.faq li::before {
+    content: "";
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 20px;
+    right: 32px;
+    background-image: url('../img/icon/Mask.svg');
+    background-size: 24px 24px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.awards-section ul.faq li:not(:last-child) {
+    border-bottom: 1px solid var(--color-gray-30);
+}
+
+.awards-section ul.faq .important {
+    color: var(--color-secondary-light-90);
+}
+
+/********** Permissions Section **********/
+#permissions-section {}
+
+.permissions-section {
+    background-color: #E8F1FA;
+    padding: 64px 0 64px 0;
+    margin-top: 50px;
+}
+
+.permissions-section.container-fluid {}
+
+.permissions-section .container {}
+
+.permissions-section .row {}
+
+.permissions-section .column {}
+
+.permissions-section .title {
+    width: 100%;
+    display: block;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 44px;
+    text-align: center;
+    color: var(--color-blue-gary);
+}
+
+.permissions-section ul.faq {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-radius: 6px;
+    background-color: var(--color-white);
+    padding: 0;
+    margin-top: 50px;
+}
+
+.permissions-section ul.faq li {
+    width: 100%;
+    display: block;
+    position: relative;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: right;
+    color: var(--color-blue-gray-90);
+    padding: 16px 80px 16px 32px;
+}
+
+.permissions-section ul.faq li::before {
+    content: "";
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 20px;
+    right: 32px;
+    background-image: url('../img/icon/xmark.svg');
+    background-size: 24px 24px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.permissions-section ul.faq li:not(:last-child) {
+    border-bottom: 1px solid var(--color-gray-30);
+}
 
 
 
