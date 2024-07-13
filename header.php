@@ -284,6 +284,24 @@
                   <li>
                     <a href="#">درباره ما</a>
                   </li>
+                  <li>
+                    <a href="#">صفحات <span class="arrow"></span></a>
+                    <ul class="wsmenu-submenu">
+                      <li><a href="/">صفحه اصلی</a></li>
+                      <li><a href="?page=archive-product">صفحه آرشیو محصولات</a></li>
+                      <li><a href="?page=single-product">صفحه سینگل محصولات</a></li>
+                      <li><a href="?page=archive-post">صفحه آرشیو مقالات</a></li>
+                      <li><a href="?page=single-post">صفحه سینگل مقالات</a></li>
+                      <li><a href="?page=contact-us">صفحه تماس با ما</a></li>
+                      <li><a href="?page=about-us">صفحه درباره ما</a></li>
+                      <li><a href="?page=customer">صفحه مشتریان</a></li>
+                      <li><a href="?page=awards">صفحه جوایز و افاخارات</a></li>
+                      <li><a href="?page=hardware">صفحه hardware</a></li>
+                      <li><a href="?page=multiviewer">صفحه multiviewer</a></li>
+                      <li><a href="?page=intercom">صفحه intercom</a></li>
+                      <li><a href="?page=software">صفحه software</a></li>
+                    </ul>
+                  </li>
                   <!-- <li>
                     <a href="#" class="active">
                       <i class="fa fa-paper-plane"></i>&nbsp;&nbsp;

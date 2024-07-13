@@ -33,6 +33,10 @@
                 include __DIR__ . '/templates/single-post.php'; 
                 break;
 
+            case 'contact-us':
+                include __DIR__ . '/templates/contact-us.php'; 
+                break;
+
             case 'about-us':
                 include __DIR__ . '/templates/about-us.php'; 
                 break;
@@ -45,6 +49,22 @@
                 include __DIR__ . '/templates/awards.php'; 
                 break;
             
+            case 'hardware':
+                include __DIR__ . '/templates/hardware.php'; 
+                break;
+
+            case 'multiviewer':
+                include __DIR__ . '/templates/multiviewer.php'; 
+                break;
+
+            case 'intercom ':
+                include __DIR__ . '/templates/intercom.php'; 
+                break;
+
+            case 'software':
+                include __DIR__ . '/templates/software.php'; 
+                break;
+
             default:
                 include __DIR__ . '/templates/front-page.php';
                 break;
