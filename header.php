@@ -287,7 +287,7 @@
                   <li>
                     <a href="#">صفحات <span class="arrow"></span></a>
                     <ul class="wsmenu-submenu">
-                      <li><a href="/">صفحه اصلی</a></li>
+                      <li><a href="?page=index">صفحه اصلی</a></li>
                       <li><a href="?page=archive-product">صفحه آرشیو محصولات</a></li>
                       <li><a href="?page=single-product">صفحه سینگل محصولات</a></li>
                       <li><a href="?page=archive-post">صفحه آرشیو مقالات</a></li>

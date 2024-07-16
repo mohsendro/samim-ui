@@ -162,3 +162,16 @@ Fancybox.bind('[data-fancybox="gallery"]', {
 Fancybox.bind('[data-fancybox="logos"]', {
     // Your custom options for a specific gallery
 });
+
+// Video Modular Play/Pause
+const playPause = () => {
+
+    const video = document.querySelector('.video-container video');
+    video.toggleAttribute("controls");
+    if(video.paused) {
+        video.play();
+    } else {
+        video.pause();
+    }
+
+}
