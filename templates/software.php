@@ -1,9 +1,21 @@
+<style>
+    :root {
+        --color-modular: #009390;
+        --color-modular-30: #01AEBC;
+        --color-modular-20: #DBF0F2;
+        --color-modular-15: #F2F9F8;
+        --color-modular-10: #EEF8F9;
+        --color-modular-5: #EEF8F9;
+    }
+</style>
 <main class="software">
     <?php include __DIR__ . '/../components/modular/heading-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/anchor-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/hero-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/advantage-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/advantage-full-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/video-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/property-tab-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/property-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/benefit-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/product-modular.php'; ?>

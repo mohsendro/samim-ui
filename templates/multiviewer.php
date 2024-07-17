@@ -1,6 +1,11 @@
 <style>
     :root {
-        --color-modular-title: #F7F7F8;
+        --color-modular: #324EEF;
+        --color-modular-30: #6A7FF4;
+        --color-modular-20: #E7EBF8;
+        --color-modular-15: #E3ECFE;
+        --color-modular-10: #EFF4FE;
+        --color-modular-5: #F8FAFF;
     }
 </style>
 <main class="multiviewer">
@@ -8,7 +13,9 @@
     <?php include __DIR__ . '/../components/modular/anchor-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/hero-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/advantage-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/advantage-full-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/video-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/property-tab-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/property-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/benefit-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/product-modular.php'; ?>

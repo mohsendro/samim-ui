@@ -57,7 +57,7 @@
                 include __DIR__ . '/templates/multiviewer.php'; 
                 break;
 
-            case 'intercom ':
+            case 'intercom':
                 include __DIR__ . '/templates/intercom.php'; 
                 break;
 

@@ -2461,8 +2461,14 @@
     text-align: center;
     border-radius: 50px;
     color: var(--color-white);
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
     padding: 12px 24px 12px 24px;
+}
+
+.headingModular-section .btn:active {
+    color: var(--color-modular);
+    border-color: var(--color-modular);
+    background-color: transparent;
 }
 
 /* Responsive Max-width */
@@ -2527,7 +2533,7 @@
 }
 
 .anchorModular-section ul.anchor li.active {
-    border-color: var(--color-hardware);
+    border-color: var(--color-modular);
 }
 
 .anchorModular-section ul.anchor li a {
@@ -2560,7 +2566,7 @@
 #heroModular-section {}
 
 .heroModular-section {
-    background-color: var(--color-hardware-5);
+    background-color: var(--color-modular-5);
     padding-top: 72px;
     padding-bottom: 72px;
 }
@@ -2625,7 +2631,7 @@
     position: absolute;
     bottom: -28px;
     right: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 .heroModular-section .subtitle {
@@ -2732,7 +2738,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 .advantageModular-section .box {
@@ -2746,7 +2752,7 @@
     align-items: flex-start;
     gap: 17px;
     border-radius: 4px;
-    background-color: var(--color-hardware-5);
+    background-color: var(--color-modular-5);
     padding: 30px 30px 30px 30px;
 }
 
@@ -2789,6 +2795,125 @@
 @media (max-width: 767.98px) {
 
     .advantageModular-section .box {
+        width: 100%;
+        min-height: auto;
+    }
+
+}
+
+/********** Advantage Full Modular Section **********/
+#advantageFullModular-section {}
+
+.advantageFullModular-section {
+    gap: 91px;
+    margin-top: 48px;
+}
+
+.advantageFullModular-section.container-fluid {}
+
+.advantageFullModular-section .container {}
+
+.advantageFullModular-section .row {}
+
+.advantageFullModular-section .title-row {}
+
+.advantageFullModular-section .box-row {
+    margin-top: 65px;
+}
+.advantageFullModular-section .column {}
+
+.advantageFullModular-section .title-row .column {}
+
+.advantageFullModular-section .box-row .column {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.advantageFullModular-section .title {
+    display: block;
+    width: 100%;
+    position: relative;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 44px;
+    text-align: right;
+    color: var(--color-blue-gary);
+    padding-bottom: 25px;
+}
+
+.advantageFullModular-section .title::after {
+    content: "";
+    width: 61px;
+    height: 5px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: var(--color-modular);
+}
+
+.advantageFullModular-section .box {
+    width: calc(25% - 20px);
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 17px;
+    border-radius: 4px;
+    background-color: var(--color-blue-gray-5);
+    padding: 30px 30px 30px 30px;
+}
+
+.advantageFullModular-section svg {}
+
+.advantageFullModular-section .head {
+    width: 100%;
+    display: block;
+    font-size: 19px;
+    font-weight: 800;
+    line-height: 30px;
+    text-align: right;
+    color: var(--color-blue-gary-90);
+}
+
+.advantageFullModular-section .desc {
+    width: 100%;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: justify;
+    color: var(--color-gray-80);
+}
+
+.advantageFullModular-section img {
+    width: 100%;
+    height: auto;
+}
+
+/* Responsive Max-width */
+@media (max-width: 1199.98px) {
+
+    .advantageFullModular-section .box-row {
+        gap: 20px;
+    }
+
+    .advantageFullModular-section .box {
+        width: calc(50% - 20px);
+    }
+
+}
+
+@media (max-width: 767.98px) {
+
+    .advantageFullModular-section .box {
         width: 100%;
         min-height: auto;
     }
@@ -2844,7 +2969,7 @@
     bottom: 10px;
     left: 0;
     border-radius: 0px 8px 0px 0px;
-    background-color: var(--color-secondary);
+    background-color: var(--color-modular);
     cursor: pointer;
 }
 
@@ -2852,7 +2977,7 @@
 #propertyModular-section {}
 
 .propertyModular-section {
-    background-color: var(--color-hardware-5);
+    background-color: var(--color-modular-5);
     padding-top: 48px;
     padding-bottom: 48px;
     margin-top: 72px;
@@ -2901,7 +3026,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 .propertyModular-section .box {
@@ -2914,7 +3039,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     gap: 12px;
-    border-bottom: 2px solid var(--color-hardware);
+    border-bottom: 2px solid var(--color-modular);
     border-radius: 4px;
     background-color: var(--color-white);
     padding: 30px 30px 30px 30px;
@@ -2959,11 +3084,151 @@
 
 }
 
+/********** Property Tab Modular Section **********/
+#propertyTabModular-section {}
+
+.propertyTabModular-section {
+    background-color: var(--color-modular-15);
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-top: 72px;
+}
+
+.propertyTabModular-section.container-fluid {}
+
+.propertyTabModular-section .container {}
+
+.propertyTabModular-section .row {}
+
+.propertyTabModular-section .title-row {}
+
+.propertyTabModular-section .tab-row {
+    margin-top: 48px;
+}
+
+.propertyTabModular-section .column {}
+
+.propertyTabModular-section .title-row .column {}
+
+.propertyTabModular-section .tab-row .column {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.propertyTabModular-section .title {
+    display: block;
+    width: 100%;
+    position: relative;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 44px;
+    text-align: right;
+    color: var(--color-blue-gary);
+    padding-bottom: 25px;
+}
+
+.propertyTabModular-section .title::after {
+    content: "";
+    width: 61px;
+    height: 5px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: var(--color-modular);
+}
+
+.propertyTabModular-section .nav {
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0;
+}
+
+.propertyTabModular-section .nav::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
+.propertyTabModular-section .nav-item {
+    display: inline-block;
+    min-width: max-content;
+}
+
+.propertyTabModular-section .nav-link {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: right;
+    color: var(--color-blue-gray-80);
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 14px 30px 14px 30px;
+}
+
+.propertyTabModular-section .nav-link.active {
+    color: var(--color-modular);
+    background-color: transparent;
+}
+
+.propertyTabModular-section .tab-content {
+    width: calc(100% - 300px);
+    max-width: 992px;
+    background-color: var(--color-white);
+    border-right: 3px solid var(--color-modular);
+    padding: 64px 48px 64px 48px;
+    margin: 0 auto;
+}
+
+.propertyTabModular-section .tab-pane {
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: justify;
+    color: var(--color-blue-gray-90);
+}
+
+/* Responsive Max-width */
+@media (max-width: 1199.98px) {
+
+    .propertyTabModular-section .tab-row .column {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: stretch;
+        justify-content: flex-start;
+        align-items: stretch;
+        gap: 48px;
+    }
+
+    .propertyTabModular-section .nav {
+        max-width: 100%;
+        flex-direction: row;
+        justify-content: flex-start;
+        overflow-x: scroll;
+    }
+
+    .propertyTabModular-section .tab-content {
+        width: 100%;
+        max-width: 100%;
+    }
+
+}
+
 /********** Benefit Modular Section **********/
 #benefitModular-section {}
 
 .benefitModular-section {
-    background-color: var(--color-hardware-5);
+    background-color: var(--color-modular-5);
     padding-top: 48px;
     padding-bottom: 48px;
 }
@@ -3002,17 +3267,17 @@
     line-height: 44px;
     text-align: right;
     color: var(--color-blue-gary);
-    /* padding-bottom: 25px; */
+    padding-bottom: 25px;
 }
 
 .benefitModular-section .title::after {
-    /* content: ""; */
+    content: "";
     width: 61px;
     height: 5px;
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 .benefitModular-section img {
@@ -3033,7 +3298,7 @@
     align-items: flex-start;
     gap: 12px;
     background-color: var(--color-white);
-    border-bottom: 2px solid var(--color-hardware);
+    border-bottom: 2px solid var(--color-modular);
     border-radius: 0px 0px 4px 4px;
     padding: 30px 30px 30px 30px;
 }
@@ -3098,14 +3363,14 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 /********** Download Modular Section **********/
 #downloadModular-section {}
 
 .downloadModular-section {
-    background-color: var(--color-hardware-20);
+    background-color: var(--color-modular-20);
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: 46px;
@@ -3164,8 +3429,14 @@
     text-align: center;
     border-radius: 50px;
     color: #FEFEFE;
-    background-color: var(--color-hardware-30);
+    background-color: var(--color-modular);
     padding: 12px 32px 12px 32px;
+}
+
+.downloadModular-section .btn:active {
+    color: var(--color-modular);
+    border-color: var(--color-modular);
+    background-color: transparent;
 }
 
 /********** FAQ Modular Section **********/
@@ -3208,7 +3479,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: var(--color-hardware);
+    background-color: var(--color-modular);
 }
 
 .faqModular-section .accordion {
@@ -3242,7 +3513,7 @@
 }
 
 .accordion-button:not(.collapsed) {
-    background-color: var(--color-hardware-5);
+    background-color: var(--color-modular-5);
     box-shadow: none;
 }
 
@@ -3272,25 +3543,6 @@
     color: var(--color-gray-80);
     padding: 16px 32px 16px 32px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /****************************** Components ******************************/

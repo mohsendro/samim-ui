@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">
-                <div class="title">محصـولات مرتبــط</div>
+                <div class="title">سوالات متداول</div>
             </div>
         </div>
 

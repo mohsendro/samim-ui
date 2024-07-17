@@ -1,9 +1,21 @@
+<style>
+    :root {
+        --color-modular: #F4701E;
+        --color-modular-30: #FEEBE0;
+        --color-modular-20: #FEEBE0;
+        --color-modular-15: #FFF1E9;
+        --color-modular-10: #FFF9F8;
+        --color-modular-5: #FFF9F8;
+    }
+</style>
 <main class="intercom">
     <?php include __DIR__ . '/../components/modular/heading-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/anchor-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/hero-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/advantage-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/advantage-full-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/video-modular.php'; ?>
+    <?php include __DIR__ . '/../components/modular/property-tab-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/property-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/benefit-modular.php'; ?>
     <?php include __DIR__ . '/../components/modular/product-modular.php'; ?>
