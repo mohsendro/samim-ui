@@ -1,5 +1,5 @@
 <!-- Property Tab Modular Section Start -->
-<section id="propertyTabModular-section" class="container-fluid propertyTabModular-section">
+<section id="propertyTabModular-section" class="container-fluid propertyTabModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">

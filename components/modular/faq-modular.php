@@ -1,5 +1,5 @@
 <!-- FAQ Modular Section Start -->
-<section id="faqModular-section" class="container-fluid faqModular-section">
+<section id="faqModular-section" class="container-fluid faqModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">

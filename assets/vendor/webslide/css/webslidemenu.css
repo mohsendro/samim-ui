@@ -111,6 +111,7 @@ video {
 	align-content: flex-start;
 	justify-content: flex-start;
 	align-items: flex-start;
+	gap: 24px;
 	padding: 0px;
 }
 
@@ -518,22 +519,23 @@ video {
 }
 
 .wsmenu-list li>.megamenu {
-	transform-style: preserve-3d;
+	/* transform-style: preserve-3d;
 	-o-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
 	-webkit-transform-style: preserve-3d;
 	transform: rotateX(-90deg);
 	-o-transform: rotateX(-90deg);
 	-moz-transform: rotateX(-90deg);
-	-webkit-transform: rotateX(-90deg);
+	-webkit-transform: rotateX(-90deg); */
+	opacity: 0;
 	visibility: hidden;
 }
 
 .wsmenu-list li:hover>.megamenu {
-	transform: rotateX(0deg);
+	/* transform: rotateX(0deg);
 	-o-transform: rotateX(0deg);
 	-moz-transform: rotateX(0deg);
-	-webkit-transform: rotateX(0deg);
+	-webkit-transform: rotateX(0deg); */
 	opacity: 1;
 	visibility: visible;
 }

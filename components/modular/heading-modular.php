@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-12 column">
                 <h1 class="title">روتر /مالتی ویوئر صمیم</h1>
-                <h2 class="subtitle">مانیتورینگ و سوییچینگ همزمان سیگنال های صدا و تصویر</h2>
+                <p class="subtitle">مانیتورینگ و سوییچینگ همزمان سیگنال های صدا و تصویر</p>
                 <a href="#" title="" class="link">
                     <button class="btn">ارتباط با مشاور</button>
                 </a>

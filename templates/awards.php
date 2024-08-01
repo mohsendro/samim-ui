@@ -7,8 +7,8 @@
             <div class="row">
                 <div class="col-12 column">
                     <ul class="anchor">
-                        <li class="active"><a href="#awards-section">جوایز و افتخارات</a></li>
-                        <li><a href="#permissions-section">مجوزها</a></li>
+                        <li data-scroll="awards-section" class="active"><a href="#awards-section">جوایز و افتخارات</a></li>
+                        <li data-scroll="permissions-section"><a href="#permissions-section">مجوزها</a></li>
                     </ul>
                 </div>
             </div>
@@ -17,7 +17,7 @@
     <!-- Anchor Section End -->
 
     <!-- Awards Section Start -->
-    <section id="awards-section" class="container-fluid awards-section">
+    <section id="awards-section" class="container-fluid awards-section" data-scroll="">
         <div class="row title-row">
             <div class="col-12 column">
                 <div class="title">گزیده‌ای از جوایز و افتخارات</div>
@@ -28,14 +28,54 @@
             <div class="row logos-row">
                 <div class="col-12 column">
                     <div class="logos">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 18.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 19.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 20.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 23.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 18.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 19.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 20.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/about/image 23.png" data-fancybox="logos" alt="">
+                        <div class="content">
+                            <img src="assets/img/components/about/image 18.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 19.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 20.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 23.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 18.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 19.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 20.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
+                        <div class="content">
+                            <img src="assets/img/components/about/image 23.png" alt="">
+                            <p class="desc">
+                                انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -58,7 +98,7 @@
     <!-- Awards Section End -->
 
     <!-- Permissions Section Start -->
-    <section id="permissions-section" class="container-fluid permissions-section">
+    <section id="permissions-section" class="container-fluid permissions-section" data-scroll="">
         <div class="container">
             <div class="row">
                 <div class="col-12 column">

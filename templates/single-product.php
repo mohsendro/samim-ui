@@ -16,34 +16,34 @@
                         <div class="swiper-container gallery-main">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide1/600/300" data-fancybox="gallery" alt="Slide 01">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 01">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide2/600/300" data-fancybox="gallery" alt="Slide 02">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 02">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide3/600/300" data-fancybox="gallery" alt="Slide 03">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 03">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="http://localhost/samim/ui/assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 04">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 04">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide5/600/300" data-fancybox="gallery" alt="Slide 05">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 05">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide6/600/300" data-fancybox="gallery" alt="Slide 06">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 06">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide7/600/300" data-fancybox="gallery" alt="Slide 07">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 07">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide8/600/300" data-fancybox="gallery" alt="Slide 08">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 08">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide9/600/300" data-fancybox="gallery" alt="Slide 09">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 09">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide10/600/300" data-fancybox="gallery" alt="Slide 10">
+                                    <img src="assets/img/components/product/udc-3455 1.png" data-fancybox="gallery" alt="Slide 10">
                                 </div>
                             </div>
                             <!-- <div class="swiper-button-prev"></div> -->
@@ -53,34 +53,34 @@
                         <div class="swiper-container gallery-thumbs">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide1/115/100" alt="Slide 01">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 01">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide2/115/100" alt="Slide 02">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 02">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide3/115/100" alt="Slide 03">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 03">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="http://localhost/samim/ui/assets/img/components/product/udc-3455 1.png" alt="Slide 04">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 04">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide5/115/100" alt="Slide 05">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 05">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide6/115/100" alt="Slide 06">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 06">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide7/115/100" alt="Slide 07">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 07">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide8/115/100" alt="Slide 08">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 08">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide9/115/100" alt="Slide 09">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 09">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="https://picsum.photos/seed/slide10/115/100" alt="Slide 10">
+                                    <img src="assets/img/components/product/udc-3455 1.png" alt="Slide 10">
                                 </div>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <?php for ($i=0; $i < 4; $i++): ?>
+                            <?php for ($i=0; $i < 3; $i++): ?>
                                 <div class="swiper-slide">
                                     <?php include __DIR__ . '/../components/cards/project-card.php'; ?>
                                 </div>

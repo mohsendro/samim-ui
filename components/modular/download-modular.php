@@ -1,5 +1,5 @@
 <!-- Download Modular Section Start -->
-<section id="downloadModular-section" class="container-fluid downloadModular-section">
+<section id="downloadModular-section" class="container-fluid downloadModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">

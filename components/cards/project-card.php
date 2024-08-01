@@ -1,6 +1,6 @@
 <!-- Product Card Component Start -->
 <div class="product-card">
-    <img src="http://localhost/samim/ui/assets/img/components/product/udc-3455 1.png" alt="" width="auto" height="auto">
+    <img src="assets/img/components/product/udc-3455 1.png" alt="" width="auto" height="auto">
 
     <div class="content">
         <h4 class="title">مبدل سیگنال الکتریکی به نوری (تک کاناله)</h4>

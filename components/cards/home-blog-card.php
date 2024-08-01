@@ -1,7 +1,7 @@
 <!-- Home Blog Card Component Start -->
 <div class="home-blog-card">
     <div class="main-card">
-        <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 2.jpg" alt="" width="auto" height="auto">
+        <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 2.jpg" alt="" width="auto" height="auto">
         <h3 class="title">دیستریبیوتر صدا و تصویر | قیمت و راهنمای خرید صدا و تصویر</h3>
         <a href="#" class="more">
             بیشتـر بخوانید
@@ -13,28 +13,28 @@
 
     <div class="list-card">
         <div class="card-container">
-            <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3.jpg" alt="" width="auto" height="auto">
+            <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3.jpg" alt="" width="auto" height="auto">
             <div class="content">
                 <span class="date">۱۱ بهمن ۱۴۰۲</span>
                 <a href="" class="title">ویدئو سوئیچر صمیم</a>
             </div>
         </div>
         <div class="card-container">
-            <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-1.jpg" alt="" width="auto" height="auto">
+            <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-1.jpg" alt="" width="auto" height="auto">
             <div class="content">
                 <span class="date">۱۱ بهمن ۱۴۰۲</span>
                 <a href="" class="title">اCWDMچیست؟ چه کاربردی در صنعت برودکست دارد؟</a>
             </div>
         </div>
         <div class="card-container">
-            <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-2.jpg" alt="" width="auto" height="auto">
+            <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-2.jpg" alt="" width="auto" height="auto">
             <div class="content">
                 <span class="date">۱۱ بهمن ۱۴۰۲</span>
                 <a href="" class="title">نظارت و پایش سیستم‌ها با سامانه‌های مانیتورینگ</a>
             </div>
         </div>
         <div class="card-container">
-            <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-3.jpg" alt="" width="auto" height="auto">
+            <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 3-3.jpg" alt="" width="auto" height="auto">
             <div class="content">
                 <span class="date">۱۱ بهمن ۱۴۰۲</span>
                 <a href="" class="title">دستگاه‌های میکسر تصویر و صدا</a>

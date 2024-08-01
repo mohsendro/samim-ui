@@ -1,5 +1,5 @@
 <!-- Product Modular Section Start -->
-<section id="productModular-section" class="container-fluid productModular-section">
+<section id="productModular-section" class="container-fluid productModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">
@@ -14,7 +14,7 @@
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
                         <!-- Slides -->
-                        <?php for ($i=0; $i < 4; $i++): ?>
+                        <?php for ($i=0; $i < 3; $i++): ?>
                             <div class="swiper-slide">
                                 <?php include __DIR__ . '/../../components/cards/project-card.php'; ?>
                             </div>

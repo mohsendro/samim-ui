@@ -16,10 +16,11 @@
     font-weight: 400;
 }
 
+
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Thin.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Thin.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Thin.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -29,7 +30,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-UltraLight.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-UltraLight.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-UltraLight.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -39,7 +40,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Light.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Light.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Light.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -49,7 +50,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Regular.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Regular.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Regular.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -59,7 +60,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Medium.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Medium.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Medium.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -69,7 +70,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-DemiBold.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-DemiBold.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-DemiBold.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -79,7 +80,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Bold.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Bold.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Bold.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -89,7 +90,7 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-ExtraBold.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-ExtraBold.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-ExtraBold.woff') format('woff');
     /* Pretty Modern Browsers */
@@ -99,12 +100,104 @@
 @font-face {
     font-family: "IRANSansXFaNum";
     /* IE9 Compat Modes */
-    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Black.woff2') format('woff2'),
+    src: url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff2/IRANSansXFaNum-Black.woff2') format('woff2'),
         /* Super Modern Browsers */
         url('../font/IranSansX(Pro)/Farsi numerals/Webfonts/Woff/IRANSansXFaNum-Black.woff') format('woff');
     /* Pretty Modern Browsers */
     font-weight: 900;
 }
+
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Thin.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Thin.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-UltraLight.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-UltraLight.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Light.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Light.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Regular.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Medium.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Medium.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-DemiBold.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-DemiBold.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Bold.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Bold.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-ExtraBold.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-ExtraBold.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "IRANSansX";
+    /* IE9 Compat Modes */
+    src: url('../font/IranSansX(Pro)/Webfonts/fonts/woff2/IRANSansX-Black.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../font/IranSansX(Pro)/Webfonts/fonts/woff/IRANSansX-Black.woff') format('woff');
+    /* Pretty Modern Browsers */
+    font-weight: 900;
+}
+
 
 /* Kit Styles */
 :root {
@@ -236,6 +329,30 @@ body {
     line-height: var(--default-line-height);
     color: var(--color-blue-gray-90);
     overflow-x: hidden;
+    padding-top: 78px;
+}
+
+body.overly {
+    position: relative;
+}
+
+body.overly::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: rgba( 0, 0, 0, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    z-index: 99;
 }
 
 .title {

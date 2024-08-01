@@ -1,10 +1,10 @@
 <!-- Video Modular Section Start -->
-<section id="videoModular-section" class="container-fluid videoModular-section">
+<section id="videoModular-section" class="container-fluid videoModular-section" data-scroll="">
     <div class="container">
         <div class="row">
             <div class="col-12 column">
                 <div class="video-container">
-                    <video width="auto" height="auto" poster="http://localhost/samim/ui/assets/img/components/modular/cover.jpg">
+                    <video width="auto" height="auto" poster="assets/img/components/modular/cover.jpg">
                         <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
                     </video>
                     <div class="shape" onclick="playPause()">

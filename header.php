@@ -53,7 +53,7 @@
             
             <div class="wrapper clearfix bigmegamenu">
               <!--Main Menu HTML Code-->
-              <nav class="wsmenu clearfix">
+              <nav class="wsmenu clearfix" onmouseover="overlyCallback()" onmouseout="overlyCallback()">
                 <ul class="mobile-sub wsmenu-list">
                   <li class="d-none d-xl-block">
                     <a href="#">
@@ -193,87 +193,51 @@
                       </div>
                     </div>
                   </li>
-                  <li>
+                  <li class="d-none d-xl-block">
                     <a href="#">
-                      راهکارها 
+                      راهکارها
                       <span class="arrow"></span>
                     </a>
-                    <ul class="wsmenu-submenu">
-                      <li>
-                        <a href="#">
-                          تولید و پخش برنامه‌های زنده
-                          <i class="fa fa-angle-left"></i>
-                        </a>
-                        <ul class="wsmenu-submenu-sub">
-                          <li>
-                            <a href="#">
-                              استودیـوی فـول اچ دی
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              نـودال فـول اچ دی
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              انتقـال نوری سیگنال صـدا و تصویـر
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              ایجاد تأخیر در پخش زنده صدا و تصویر
-                            </a>
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="#">
-                          ارتباطات صوتی و پیجینگ
-                          <i class="fa fa-angle-left"></i>
-                        </a>
-                        <ul class="wsmenu-submenu-sub">
-                          <li>
-                            <a href="#">
-                              ارتباطات صوتی و پیجینگ مبتنی بر IP
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              سامانـه اینترکام‌های قدرتمند صنعتی
-                            </a>
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="#">
-                          مدیریت و اتوماسیون رسانه
-                          <i class="fa fa-angle-left"></i>
-                        </a>
-                        <ul class="wsmenu-submenu-sub">
-                          <li>
-                            <a href="#">
-                              سامانه مدیریت محتوای چند رسانه‌ای
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              سامانـه اتوماسیون شبکه‌های تلویزیونی
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              مانیتورینگ شبکه‌های تلویزیونی
-                            </a>
-                          </li>
-                          <li>
-                            <a href="#">
-                              آرشیو و مدیریت دارایی‌های دیجیتال
-                            </a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
+                    <div class="megamenu halfmenu clearfix m-0">
+                      <div class="megamenu-container align-items-start">
+                        <div class="list">
+                          <div class="heading">زيرسـاخت برودکسـت</div>
+                          <ul>
+                            <li><a href="#" title="">اومیکـس (Omix)</a></li>
+                            <li><a href="#" title="">پردازشگـر صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">ماتریـس صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">کنتـرل پنـل</a></li>
+                            <li><a href="#" title="">امبـدر و دی امبـدر</a></li>
+                            <li><a href="#" title="">توزیـع کننـده صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">تاخیـر دهنـده صـدا و تصویـر</a></li>
+                          </ul>
+                        </div>
+                        <div class="list">
+                          <div class="heading">زيرسـاخت برودکسـت</div>
+                          <ul>
+                            <li><a href="#" title="">اومیکـس (Omix)</a></li>
+                            <li><a href="#" title="">پردازشگـر صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">ماتریـس صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">کنتـرل پنـل</a></li>
+                            <li><a href="#" title="">امبـدر و دی امبـدر</a></li>
+                            <li><a href="#" title="">توزیـع کننـده صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">تاخیـر دهنـده صـدا و تصویـر</a></li>
+                          </ul>
+                        </div>
+                        <div class="list">
+                          <div class="heading">زيرسـاخت برودکسـت</div>
+                          <ul>
+                            <li><a href="#" title="">اومیکـس (Omix)</a></li>
+                            <li><a href="#" title="">پردازشگـر صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">ماتریـس صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">کنتـرل پنـل</a></li>
+                            <li><a href="#" title="">امبـدر و دی امبـدر</a></li>
+                            <li><a href="#" title="">توزیـع کننـده صـدا و تصویـر</a></li>
+                            <li><a href="#" title="">تاخیـر دهنـده صـدا و تصویـر</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
                   </li>
                   <li>
                     <a href="#">بلاگ</a>
@@ -300,15 +264,21 @@
                       <li><a href="?page=multiviewer">صفحه multiviewer</a></li>
                       <li><a href="?page=intercom">صفحه intercom</a></li>
                       <li><a href="?page=software">صفحه software</a></li>
+                      <li>
+                        <a href="#">
+                          زیرمنو سطح 2
+                          <i class="fa fa-angle-left"></i>
+                        </a>
+                        <ul class="wsmenu-submenu-sub">
+                          <li>
+                            <a href="#">
+                              زیرمنو سطح 3
+                            </a>
+                          </li>
+                        </ul>
+                      </li>
                     </ul>
                   </li>
-                  <!-- <li>
-                    <a href="#" class="active">
-                      <i class="fa fa-paper-plane"></i>&nbsp;&nbsp;
-                      درباره ما
-                      <span class="arrow"></span>
-                    </a>
-                  </li> -->
                 </ul>
               </nav>
               <!--Menu HTML Code-->   

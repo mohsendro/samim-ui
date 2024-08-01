@@ -1,5 +1,5 @@
 <!-- Advantage Modular Section Start -->
-<section id="advantageModular-section" class="container-fluid advantageModular-section">
+<section id="advantageModular-section" class="container-fluid advantageModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">
@@ -67,7 +67,7 @@
                 </div>
             </div>
             <div class="col-12 col-xl-6 column">
-                <img src="http://localhost/samim/ui/assets/img/components/modular/advantage.jpg" alt="">
+                <img src="assets/img/components/modular/advantage.jpg" alt="">
             </div>
         </div>
     </div>

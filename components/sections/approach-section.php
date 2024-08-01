@@ -1,5 +1,6 @@
 <!-- Approach Section Start -->
 <section id="approach-section" class="container-fluid approach-section">
+    <div class="divider"></div>
     <div class="container tab-nav-container">
         <div class="row">
             <div class="col-12 column">
@@ -10,25 +11,25 @@
                         <!-- Slides -->
                         <div class="swiper-slide hardware">
                             <h2 class="head">زیرساخت تولیـد و پخـش رادیـو تلویزیـون</h2>
-                            <img src="http://localhost/samim/ui/assets/img/components/approach/broadcast.jpg" 
+                            <img src="assets/img/components/approach/broadcast.jpg" 
                                 alt="زیرساخت تولیـد و پخـش رادیـو تلویزیـون" width="auto" height="auto"
                             />
                         </div>
                         <div class="swiper-slide intercom">
                             <h2 class="head">سیستم‌هـای اينتـركام و پيجينـگ</h2>
-                            <img src="http://localhost/samim/ui/assets/img/components/approach/intercom.jpg" 
+                            <img src="assets/img/components/approach/intercom.jpg" 
                                 alt="سیستم‌هـای اينتـركام و پيجينـگ" width="auto" height="auto"
                             />
                         </div>
                         <div class="swiper-slide software">
                             <h2 class="head">مدیریت و اتوماسیــون رسانـه</h2>
-                            <img src="http://localhost/samim/ui/assets/img/components/approach/software2.jpg" 
+                            <img src="assets/img/components/approach/software2.jpg" 
                                 alt="مدیریت و اتوماسیــون رسانـه" width="auto" height="auto"
                             />
                         </div>
                         <div class="swiper-slide secondary">
                             <h2 class="head">مـدیریـت کسـب و کـار</h2>
-                            <img src="http://localhost/samim/ui/assets/img/components/approach/software1.jpg" 
+                            <img src="assets/img/components/approach/software1.jpg" 
                                 alt="مـدیریـت کسـب و کـار" width="auto" height="auto"
                             />
                         </div>
@@ -46,7 +47,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 column">
-                    <div class="tab-content show" data-background="#F8FAFF">
+                    <div class="tab-content show" data-background="#F8FAFF" data-divider="#EFF4FE">
                         <h3 class="title hardware">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
@@ -61,7 +62,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="tab-content" data-background="#FFF9F8">
+                    <div class="tab-content" data-background="#FFF9F8" data-divider="#FEEBE0">
                         <h3 class="title intercom">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
@@ -76,7 +77,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="tab-content" data-background="#EEF8F9">
+                    <div class="tab-content" data-background="#EEF8F9" data-divider="#F2F9F8">
                         <h3 class="title software">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>
@@ -91,7 +92,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="tab-content" data-background="#E9F1FA">
+                    <div class="tab-content" data-background="#E9F1FA" data-divider="#D8ECFD">
                         <h3 class="title secondary">ارتباط یکپارچه، فوری و باکیفیت صوتیمبتنی بر آی پی و زیرساخت شبکه</h3>
                         <div class="desc">
                             <h4 class="subtitle">راهکار پایدار و قدرتمند ارتباطی در مراکز صنعتی، معدنی، تولیدی، آموزشی، بیمارستانی، رسانه ای، ...</h4>

@@ -105,6 +105,9 @@
   <!-- Fancybox Js -->
   <script type="text/javascript" src="assets/vendor/fancybox/fancybox.umd.js"></script>
 
+  <!-- HC sticky Js -->
+  <script type="text/javascript" src="assets/vendor/hc-sticky/hc-sticky.js"></script>
+
   <!-- Samim Js -->
   <script src="assets/js/script.js"></script>
 </body>

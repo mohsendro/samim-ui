@@ -5,7 +5,7 @@
     <section id="contact-section" class="container-fluid contact-section">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-xl-6 info-column column order-1">
+                <div class="col-12 col-xl-5 info-column column order-1">
                     <div class="title">ارتباط با ما</div>
                     <p class="desc">
                         اگر دیدگاه و سوالی دارید، یا برای تامین نیازهای زیرساختی خود، نیاز به مشاوره و راهنمایی دارید، از طریق پر کردن فرم زیر با همکاران ما در ارتباط باشید.
@@ -40,7 +40,9 @@
                     </ul>
                 </div>
 
-                <div class="col-12 col-xl-6 form-column column order-2">
+                <div class="col-12 col-xl-1 d-none d-xl-block column order-2"></div>
+
+                <div class="col-12 col-xl-6 form-column column order-3">
                     <form>
                         <div class="fields">
                             <input type="text" class="form-control" name="name" placeholder="نام و نام‌خانوادگی*" require>

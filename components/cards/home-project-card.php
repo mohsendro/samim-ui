@@ -7,7 +7,7 @@
             ارائه تجهیزات واسط صدا و تصویر و آماده سازی زیرساخت های لازم در راستای تبدیل چرخه سیستم برودکست در شبکه های تلویزیونی سراسری کشور به فول اچ دی 
         </p>
     </div>
-    <img src="http://localhost/samim/ui/assets/img/components/project/_MG_6544-1%201.jpg" alt="" width="auto" height="auto">
+    <img src="assets/img/components/project/_MG_6544-1%201.jpg" alt="" width="auto" height="auto">
 </div>
 <!-- Home Project Card Component End -->
 
@@ -20,6 +20,6 @@
             آماده سازی و بهره برداری از یک سامانه سخت افزاری و نرم افزاری که به صورت توزیع شده (غیرمتمرکز) وضعیت مراکز فنی زنجیره پخش، سیگنال رسانی و انتشار را رصد کرده و در اختیار مراکز مانیتورینگ قرار می دهد. 
         </p>
     </div>
-    <img src="http://localhost/samim/ui/assets/img/components/project/TFC-Retouch-13%201.jpg" alt="" width="auto" height="auto">
+    <img src="assets/img/components/project/TFC-Retouch-13%201.jpg" alt="" width="auto" height="auto">
 </div>
 <!-- Home Project Card Component End -->

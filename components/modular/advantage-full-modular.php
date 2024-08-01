@@ -1,5 +1,5 @@
 <!-- Advantage Full Modular Section Start -->
-<section id="advantageFullModular-section" class="container-fluid advantageFullModular-section">
+<section id="advantageFullModular-section" class="container-fluid advantageFullModular-section" data-scroll="">
     <div class="container">
         <div class="row title-row">
             <div class="col-12 column">

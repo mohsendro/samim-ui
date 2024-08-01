@@ -23,7 +23,7 @@
                 </div>
 
                 <div class="col-12 col-xl-6 image-column column order-2">
-                    <img src="http://localhost/samim/ui/assets/img/components/about/image 10.jpg" width="auto" height="auto">
+                    <img src="assets/img/components/about/image 10.jpg" width="auto" height="auto">
                 </div>
             </div>
         </div>

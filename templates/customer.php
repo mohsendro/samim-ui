@@ -8,30 +8,30 @@
                 <div class="col-12 column">
                     <div class="title">برخی مشتریان که به ما اعتماد دارند</div>
                     <div class="logos">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
-                        <img src="http://localhost/samim/ui/assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-1.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-2.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-3.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-4.png" data-fancybox="logos" alt="">
+                        <img src="assets/img/components/customers/Layer_1-5.png" data-fancybox="logos" alt="">
                     </div>
                 </div>
             </div>

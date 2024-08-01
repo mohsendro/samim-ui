@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12 column">
                     <h1 class="title">زیـرسـاخت برودکسـت، پخش زنـده رادیـو و تلویزیون</h1>
-                    <h2 class="subtitle">طراحی، پیاده سازی، توسعه و بروزآوری زیرساخت های قدرتمند ویژه استودیوهای تولید و پخش، نودال، سیگنال رسانی  و ...</h2>
+                    <p class="subtitle">طراحی، پیاده سازی، توسعه و بروزآوری زیرساخت های قدرتمند ویژه استودیوهای تولید و پخش، نودال، سیگنال رسانی  و ...</p>
                     <a href="#" title="" class="link">
                         <button class="btn">تماس با کارشناسان فروش</button>
                     </a>
@@ -42,7 +42,7 @@
                                 </svg>
                             </a>
                         </div>
-                        <img src="http://localhost/samim/ui/assets/img/components/service/image1.jpg" alt="" width="auto" height="auto">
+                        <img src="assets/img/components/service/image1.jpg" alt="" width="auto" height="auto">
                     </div>
                     <!-- Service Card Component End -->
 
@@ -59,7 +59,7 @@
                                 </svg>
                             </a>
                         </div>
-                        <img src="http://localhost/samim/ui/assets/img/components/service/image2.jpg" alt="" width="auto" height="auto">
+                        <img src="assets/img/components/service/image2.jpg" alt="" width="auto" height="auto">
                     </div>
                     <!-- Service Card Component End -->
 
@@ -76,7 +76,7 @@
                                 </svg>
                             </a>
                         </div>
-                        <img src="http://localhost/samim/ui/assets/img/components/service/image3.jpg" alt="" width="auto" height="auto">
+                        <img src="assets/img/components/service/image3.jpg" alt="" width="auto" height="auto">
                     </div>
                     <!-- Service Card Component End -->
 
@@ -93,7 +93,7 @@
                                 </svg>
                             </a>
                         </div>
-                        <img src="http://localhost/samim/ui/assets/img/components/service/image4.jpg" alt="" width="auto" height="auto">
+                        <img src="assets/img/components/service/image4.jpg" alt="" width="auto" height="auto">
                     </div>
                     <!-- Service Card Component End -->
                 </div>

@@ -1,6 +1,6 @@
 <!-- Post Sticky Card Component Start -->
 <div class="post-sticky-card">
-    <img src="http://localhost/samim/ui/assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 2.jpg" alt="" width="auto" height="auto">
+    <img src="assets/img/components/blog/audio-and-video-distributor-buyers-guide-3-750x450 2.jpg" alt="" width="auto" height="auto">
 
     <div class="content">
         <div class="category">مقالات</div>
