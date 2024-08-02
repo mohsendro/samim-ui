@@ -26,7 +26,7 @@ const approachSwiper = new Swiper(".approachSwiper", {
     speed: 400,
     centeredSlides: true,
     loop: true,
-    lazy: true,
+    lazy: false,
     grabCursor: true,
     // mousewheel: true,
     keyboard: {
@@ -73,9 +73,14 @@ const approachSwiper = new Swiper(".approachSwiper", {
             approachSection.querySelector(".divider").style.backgroundColor = tabContents[(swiper.realIndex) + 1].getAttribute('data-divider');
         },
         // slideChange: (swiper) => {  
-        // console.log(swiper.activeIndex);
-        // console.log(swiper.realIndex);
+            // console.log(swiper.activeIndex);
+            // console.log(swiper.realIndex);
         // },
+        tap: function (swiper, event) {
+            const clickedSlide = event.target.closest('.swiper-slide');
+            const slideIndex = swiper.slides.indexOf(clickedSlide);
+            swiper.slideTo(slideIndex);
+        },
     },
 
 });

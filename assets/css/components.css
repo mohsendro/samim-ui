@@ -2036,6 +2036,10 @@
     padding: 16px 80px 16px 32px;
 }
 
+.awards-section ul.faq li:hover {
+    background-color: var(--color-gray-10);
+}
+
 .awards-section ul.faq li::before {
     content: "";
     width: 24px;
@@ -2047,6 +2051,20 @@
     background-size: 24px 24px;
     background-position: center center;
     background-repeat: no-repeat;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.awards-section ul.faq li:hover::before {
+    right: 40px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .awards-section ul.faq li:not(:last-child) {
@@ -2108,6 +2126,10 @@
     text-align: right;
     color: var(--color-blue-gray-90);
     padding: 16px 80px 16px 32px;
+}
+
+.permissions-section ul.faq li:hover {
+    background-color: var(--color-gray-10);
 }
 
 .permissions-section ul.faq li::before {
@@ -4183,6 +4205,12 @@
     border-radius: 50px;
     padding: 8px 16px;
     margin: 15px auto 0 0;
+}
+
+.product-card .more:hover {
+    color: var(--color-white);
+    border-color: var(--color-secondary);
+    background-color: var(--color-secondary);
 }
 
 .product-card .btn {

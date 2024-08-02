@@ -442,7 +442,7 @@
 }
 
 .footer ul li a:hover {
-    color: var(--color-gray);
+    color: var(--color-secondary);
 }
 
 .footer ul.social {
