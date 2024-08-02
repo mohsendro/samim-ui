@@ -1,8 +1,13 @@
+<style>
+    body {
+        background-color: var(--color-gray-10);
+    }
+</style>
 <main>
     <!-- Product Desc Section Start -->
     <section id="product-desc-section" class="container-fluid product-desc-section">
         <div class="container">
-            <div class="row">
+            <div class="row gx-5">
                 <div class="col-12 col-xl-5 column">
                     <h1 class="title">مبـدل سیگنال الکتریکی به نوری تک کاناله</h1>
                     <p class="desc">

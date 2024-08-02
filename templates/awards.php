@@ -14,6 +14,9 @@
             </div>
         </div>
     </section>
+    <script>
+        activeNavLink();
+    </script>
     <!-- Anchor Section End -->
 
     <!-- Awards Section Start -->

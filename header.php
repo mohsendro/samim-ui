@@ -37,13 +37,13 @@
   <header id="header" class="container-fluid header">
     <div class="container">
       <div class="row">
-        <div class="col-8 col-xl-1 logo-column column order-2 order-xl-1">
+        <div class="col-8 col-xl-2 logo-column column order-2 order-xl-1">
           <a href="/" class="logo">
             <img src="assets/img/global/logo-blue.png" alt="صمیم" width="100" height="auto">
           </a>
         </div>
 
-        <div class="col-2 col-xl-10 menu-column column order-1 order-xl-2">
+        <div class="col-2 col-xl-9 menu-column column order-1 order-xl-2">
           <div class="wsmenucontainer clearfix">
             <div class="overlapblackbg"></div>
 

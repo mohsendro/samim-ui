@@ -19,10 +19,10 @@ const approachSwiper = new Swiper(".approachSwiper", {
 
     slidesPerView: 1,
     spaceBetween: 0,
-    // autoplay: {
-    //     delay: 5000,
-    //     // disableOnInteraction: false,
-    // },
+    autoplay: {
+        delay: 5000,
+        // disableOnInteraction: false,
+    },
     speed: 400,
     centeredSlides: true,
     loop: true,
@@ -233,36 +233,40 @@ document.addEventListener('DOMContentLoaded', function() {
     //   observer.observe(section);
     // });
 
-    window.addEventListener('scroll', () => {
-        let current = '';
-      
-        sections.forEach(section => {
-          const sectionTop = section.offsetTop;
-          if (scrollY >= sectionTop - 131) { // 100 پیکسل قبل از رسیدن به بخش
-            current = section.getAttribute('id');
-          }
+    if ( sections.length ) {
+        window.addEventListener('scroll', () => {
+            let current = '';
+          
+            sections.forEach(section => {
+              const sectionTop = section.offsetTop;
+              if (scrollY >= sectionTop - 131) { // 100 پیکسل قبل از رسیدن به بخش
+                current = section.getAttribute('id');
+              }
+            });
+          
+            // حذف کلاس active از تمام li ها
+            navLinks.forEach(function (navLink) {
+                navLink.classList.remove('active');
+            });
+    
+            // افزودن کلاس active به li
+            let activeLink = document.querySelector('li[data-scroll=' + current + ']');
+            activeLink.classList.add('active');
         });
-      
-        // حذف کلاس active از تمام li ها
-        navLinks.forEach(function (navLink) {
-            navLink.classList.remove('active');
-        });
-
-        // افزودن کلاس active به li
-        let activeLink = document.querySelector('li[data-scroll=' + current + ']');
-        activeLink.classList.add('active');
-    });
+    }
 });
 
 // Blog Share Links Sticky
 document.addEventListener('DOMContentLoaded', function() {
     var Sticky = new hcSticky('.share', {
-        stickTo: '.sticky-column',
+        stickTo: '.sticky-row',
         top: 90,
-        left: 0,
+        // left: 0,
+        // bottomEnd: 100,
+        followScroll: true,
         // responsive: {
         //     980: {
-        //         disable: true
+                
         //     }
         // }
     });
