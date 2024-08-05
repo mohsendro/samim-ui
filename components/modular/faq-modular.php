@@ -10,7 +10,7 @@
         <div class="row faq-row">
             <div class="col-12 column">
                 <div class="accordion accordion-flush">
-                    <div class="accordion-item">
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
                         <div class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                                 آیا می‌توان SDE-4800 را برای بیش از پورت ورودی/خروجی 48 در 48 آبشاری کنم؟
@@ -21,7 +21,7 @@
                                 خواهشمند است . قبل از پرداخت وجه با همکاران ما جهت اخذ مشاوره و استعلام  موجودی کالا تماس بگیرید . همکاران ما برای ارائه مشاوره ، ارسال عکس و ویدئو این لپ تاپ مشتاقانه منتظر پیامها و صدای گرم شما می باشند . قابل ذکر هست .که کلیه لپ تاپ های استوک و اپن باکس قبل از فروش به مدت 48 ساعت توسط دو تیم سخت افزاری و نرم افزاری دکونزو کامل تست و سپس برای فروش در سایت ارائه می گردد . فروش لپ تاپ گیم تخصص ماست.                            </div>
                         </div>
                     </div>
-                    <div class="accordion-item">
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
                         <div class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
                                 پردازشگر مالتی ایمیج سیگنال ویدیوی دیجیتال برای مانیتورینگ سیگنال دیجیتال پردازشگر مالتی ایمیج سیگنال ویدیوی
@@ -32,7 +32,7 @@
                                 خواهشمند است . قبل از پرداخت وجه با همکاران ما جهت اخذ مشاوره و استعلام  موجودی کالا تماس بگیرید . همکاران ما برای ارائه مشاوره ، ارسال عکس و ویدئو این لپ تاپ مشتاقانه منتظر پیامها و صدای گرم شما می باشند . قابل ذکر هست .که کلیه لپ تاپ های استوک و اپن باکس قبل از فروش به مدت 48 ساعت توسط دو تیم سخت افزاری و نرم افزاری دکونزو کامل تست و سپس برای فروش در سایت ارائه می گردد . فروش لپ تاپ گیم تخصص ماست.                            </div>
                         </div>
                     </div>
-                    <div class="accordion-item">
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
                         <div class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
                                 پردازشگر مالتی ایمیج سیگنال ویدیوی دیجیتال برای مانیتورینگ سیگنال دیجیتال

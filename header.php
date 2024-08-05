@@ -23,6 +23,9 @@
   <!-- Fancybox Css -->
   <link rel="stylesheet" type="text/css" media="all" href="assets/vendor/fancybox/fancybox.css" />
 
+  <!-- AOS Css -->
+  <link rel="stylesheet" href="assets/vendor/aos-next/aos.css" />
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="assets/vendor/webslide/font-awesome/css/font-awesome.min.css" />
 

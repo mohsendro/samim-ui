@@ -29,7 +29,7 @@
 
                 <div class="col-12 services-column column">
                     <!-- Service Card Component Start -->
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up">
                         <div class="content">
                             <h4 class="title">استودیو فول اچ دی تولید و پخش</h4>
                             <p class="desc">
@@ -47,7 +47,7 @@
                     <!-- Service Card Component End -->
 
                     <!-- Service Card Component Start -->
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up">
                         <div class="content">
                             <h4 class="title">نــودال فـول اچ دی</h4>
                             <p class="desc">
@@ -64,7 +64,7 @@
                     <!-- Service Card Component End -->
 
                     <!-- Service Card Component Start -->
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up">
                         <div class="content">
                             <h4 class="title">سیگنال رسانی مبتنی بر فیبر نوری</h4>
                             <p class="desc">
@@ -81,7 +81,7 @@
                     <!-- Service Card Component End -->
 
                     <!-- Service Card Component Start -->
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up">
                         <div class="content">
                             <h4 class="title">تأخیردهنده پخش زنده تلویزیونی و رادیویی</h4>
                             <p class="desc">

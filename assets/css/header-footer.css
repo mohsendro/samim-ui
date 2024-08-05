@@ -451,7 +451,8 @@
 }
 
 .footer ul li a:hover {
-    color: var(--color-secondary);
+    /* color: var(--color-secondary); */
+    color: var(--color-secondary-light-90);
 }
 
 .footer ul.social {
@@ -516,7 +517,7 @@
     align-content: flex-start;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 15px;
+    gap: 2px; /* 15px; */
     color: var(--color-blue-gray-80);
 }
 

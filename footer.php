@@ -5,7 +5,6 @@
         <div class="col-12 col-md-4 col-xl-3 column order-2 order-xl-1 mb-3 mb-md-0">
           <strong class="head">راهکارها</strong>
           <ul class="menu">
-            <li><a href="#" title="">سامانه مدیریت محتوای چند رسانه‌ای</a></li>
             <li><a href="#" title="">سامانـه اتوماسیون شبکه‌های تلویزیونی</a></li>
             <li><a href="#" title="">انتقال نوری سیگنال صدا و تصویر</a></li>
             <li><a href="#" title="">نودال فول اچ دی</a></li>
@@ -107,6 +106,9 @@
 
   <!-- HC sticky Js -->
   <script type="text/javascript" src="assets/vendor/hc-sticky/hc-sticky.js"></script>
+
+  <!-- AOS Js -->
+  <script type="text/javascript" src="assets/vendor/aos-next/aos.js"></script>
 
   <!-- Samim Js -->
   <script src="assets/js/script.js"></script>

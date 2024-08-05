@@ -1,5 +1,5 @@
 <!-- Button Component Start -->
-<a href="#" title="" class="link">
+<a href="#" title="" class="link" data-aos="fade-up">
     <button class="btn btn-color-secondary">
         درباره صمیـم
         <svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">

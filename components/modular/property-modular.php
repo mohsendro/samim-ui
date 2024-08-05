@@ -9,27 +9,27 @@
 
         <div class="row box-row">
             <div class="col-12 column">
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="100">
                     <div class="head">پشتیبانی از سیگنال های SDI </div>
                     <p class="desc">پشیبانی از طیف وسیعی از سیگنال های خام صدا و تصویر؛ 12G/3G/HD/SD - SDI</p>
                 </div>
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="200">
                     <div class="head">قابلیت چیدمان اختصاصی</div>
                     <p class="desc">با استفاده از نرم افزار ویژه برای چیدمان دلخواه منابع ورودی، خروجی آنتن، ... بر روی مانیتورها</p>
                 </div>
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="300">
                     <div class="head">حداکثر 48 ورودی و 48 خروجی</div>
                     <p class="desc">اختصاص حداکثر48 ورودی از منابع موجود و 48 خروجی برای تولید یک برنامه تلویزیونی</p>
                 </div>
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="100">
                     <div class="head">پشتیبانی از پروتکل SNMP</div>
                     <p class="desc">برای دسترسی های تحت وب به برنامه کاربری محصول، به منظور مانیتورینگ عملکردها</p>
                 </div>
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="200">
                     <div class="head">همگام سازی سیگنال ها</div>
                     <p class="desc">قابلیت همگام کردن یا سینک کردن همه خروجی ها به صورت دستی یا اتوماتیک</p>
                 </div>
-                <div class="box">
+                <div class="box" data-aos="fade-up" data-aos-delay="300">
                     <div class="head">منبع تغذیه پشتیبان</div>
                     <p class="desc">تضمین اطمینان بالا از عملکرد محصول به صورت 24/7، بدون قطعی و اختلالات اجرایی</p>
                 </div>

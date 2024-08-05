@@ -261,8 +261,8 @@ document.addEventListener('DOMContentLoaded', function() {
     var Sticky = new hcSticky('.share', {
         stickTo: '.sticky-row',
         top: 90,
-        // left: 0,
-        // bottomEnd: 100,
+        left: 50,
+        bottomEnd: 50,
         followScroll: true,
         // responsive: {
         //     980: {
@@ -270,4 +270,12 @@ document.addEventListener('DOMContentLoaded', function() {
         //     }
         // }
     });
+});
+
+// AOS Animations
+AOS.init({
+    offset: 200,
+    duration: 400,
+    easing: 'ease-in-out-sine',
+    delay: 0,
 });

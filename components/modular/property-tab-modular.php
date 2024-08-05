@@ -4,6 +4,7 @@
         <div class="row title-row">
             <div class="col-12 column">
                 <div class="title">ویـژگـی‌هـای اصـلـی</div>
+                <div class="subtitle">مبتنی بر فن‌آوری‌های رسانه و ارتباطات</div>
             </div>
         </div>
 

@@ -31,49 +31,49 @@
             <div class="row logos-row">
                 <div class="col-12 column">
                     <div class="logos">
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="0">
                             <img src="assets/img/components/about/image 18.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="100">
                             <img src="assets/img/components/about/image 19.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="200">
                             <img src="assets/img/components/about/image 20.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="300">
                             <img src="assets/img/components/about/image 23.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="400">
                             <img src="assets/img/components/about/image 18.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="500">
                             <img src="assets/img/components/about/image 19.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="600">
                             <img src="assets/img/components/about/image 20.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور
                             </p>
                         </div>
-                        <div class="content">
+                        <div class="content" data-aos="fade-up" data-aos-delay="700">
                             <img src="assets/img/components/about/image 23.png" alt="">
                             <p class="desc">
                                 انتخاب سیستم جامع اینترکام و سامانه کنترل و مانیتورینگ صمیم به عنوان طرح برتر دانش بنیان، در بخش فنی صنعت رسانه کشور

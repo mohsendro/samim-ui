@@ -17,7 +17,7 @@
                     </p>
                 </div>
                 <div class="col-12 col-xl-5 column">
-                    <img src="assets/img/components/approach/intercom.jpg" alt="">
+                    <img src="assets/img/components/approach/intercom.jpg" alt="" data-aos="fade-right">
                 </div>
             </div>
         </div>
